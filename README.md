@@ -46,5 +46,5 @@ To clean a real-world sales dataset by handling missing data, formatting inconsi
 
 ##  Dataset Source
 
-[Kaggle - Sales Data Sample](https://www.kaggle.com/datasets)
+[Kaggle - Sales Data Sample](https://www.kaggle.com/datasets/kyanyoga/sample-sales-data)
 
